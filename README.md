@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lannafront
+- 👀 I’m interested in front-end
+- 🌱 I’m currently learning HTML, CSS and JS
+- ⚡ Fun fact: I'm a big kpop fan
